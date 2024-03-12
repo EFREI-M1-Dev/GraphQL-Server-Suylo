@@ -1,4 +1,4 @@
-import { GhibliAPI } from "./datasources/GhibliAPI"
+import {GhibliAPI} from "./datasources/GhibliAPI"
 
 export type DataSourceContext = {
   dataSources: {
