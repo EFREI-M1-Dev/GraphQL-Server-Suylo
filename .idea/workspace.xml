@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ddcd9e-27ff-4ed4-ad8d-d22f6bb31179" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/first-graphql-server/codegen.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-graphql-server/src/context.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-graphql-server/src/datasources/TrackAPI.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-graphql-server/src/models.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-graphql-server/src/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-graphql-server/src/resolvers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-graphql-server/src/schema.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraphQL-Server-Suylo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GraphQL-Server-Suylo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-graphql-server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-graphql-server/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-graphql-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-graphql-server/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-graphql-server/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/first-graphql-server/src/index.ts" afterDir="false" />
+    <list default="true" id="e2ddcd9e-27ff-4ed4-ad8d-d22f6bb31179" name="Changes" comment="ghibli wip people of films">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ghibli-graphql-api/src/resolvers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ghibli-graphql-api/src/resolvers.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +50,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "show.migrate.to.gradle.popup": "false",
-    "ts.external.directory.path": "C:\\Users\\louis\\Documents\\Dev\\EFREI\\GraphQL-Server-Suylo\\first-graphql-server\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Users\\louis\\Documents\\Dev\\EFREI\\GraphQL-Server-Suylo\\ghibli-graphql-api\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,11 +62,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710232370421</updated>
-      <workItem from="1710232372057" duration="8223000" />
+      <workItem from="1710232372057" duration="14012000" />
     </task>
+    <task id="LOCAL-00001" summary="feat">
+      <option name="closed" value="true" />
+      <created>1710242189881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710242189881</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat ghibli api">
+      <option name="closed" value="true" />
+      <created>1710242467002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710242467002</updated>
+    </task>
+    <task id="LOCAL-00003" summary="wip ghibli api">
+      <option name="closed" value="true" />
+      <created>1710244307666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710244307666</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ghibli api wip rm useless files/functions">
+      <option name="closed" value="true" />
+      <created>1710250379213</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710250379213</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ghibli wip people of films">
+      <option name="closed" value="true" />
+      <created>1710251632860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710251632860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat" />
+    <MESSAGE value="feat ghibli api" />
+    <MESSAGE value="wip ghibli api" />
+    <MESSAGE value="ghibli api wip rm useless files/functions" />
+    <MESSAGE value="ghibli wip people of films" />
+    <option name="LAST_COMMIT_MESSAGE" value="ghibli wip people of films" />
   </component>
 </project>
