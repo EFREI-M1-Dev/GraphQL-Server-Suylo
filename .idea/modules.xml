@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GraphQL-Server-Suylo.iml" filepath="$PROJECT_DIR$/GraphQL-Server-Suylo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GraphQL-Server-Suylo.iml" filepath="$PROJECT_DIR$/.idea/GraphQL-Server-Suylo.iml" />
     </modules>
   </component>
 </project>
